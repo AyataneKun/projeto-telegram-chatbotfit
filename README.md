@@ -8,7 +8,7 @@ Chatbot para recomendação de de exercícios físicos realizado durante Lab na 
 
 # Instalação
 Na pasta do projeto, abra o prompt de comando (Windows) ou navegue até a pasta do projeto (UNIX OS) e então execute o comando:
-## npm install
+### npm install
 
 O comando irá baixar todos os módulos e dependências necessárias para rodar o código.
 
