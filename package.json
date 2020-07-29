@@ -1,0 +1,23 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "Chat bot utilizando as APIs do Telegram.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chat",
+    "Bot",
+    "Telegram",
+    "Node",
+    "API"
+  ],
+  "author": "Aluísio Meloni Virgílio",
+  "license": "ISC",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "youtube-node": "^1.3.3"
+  }
+}
